@@ -18,8 +18,10 @@ A collection of exploits and documentation for penetration testers and red teame
 - You can learn more about the vulnerability here: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-0847
 
 # DirtyPipe Vulnerability Scanner
-- If you are not sure if a target system is vulnerable, use this really cool bash script developed by @basharkey.
-- DirtyPipe Checker: https://github.com/basharkey/CVE-2022-0847-dirty-pipe-checker
+- If you are not sure if a target system is vulnerable, use this command
+```
+bash cekvuln.sh
+```
 
 
  
